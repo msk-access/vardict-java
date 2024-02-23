@@ -1,1 +1,1 @@
-# vardictjava_nfcore
+# vardict-java
